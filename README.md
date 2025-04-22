@@ -1,3 +1,4 @@
+![MAD𝕏 Banner](https://via.placeholder.com/1500x300/000000/FFFFFF?text=MAD𝕏+Developer)
 # 👋 Hey, I’m **MAD𝕏**
 
 🔥 Lua Developer for **FiveM** • 🤖 JavaScript Engineer for **Discord Bots**  
