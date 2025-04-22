@@ -1,5 +1,6 @@
-![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364363277852741733/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px_3.png?ex=680965d2&is=68081452&hm=72343040d859fb70ac6b817c08587e344b7dd9718250feb57a3434448725bf96&)
+<div align="center">
 
+![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364363277852741733/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px_3.png?ex=680965d2&is=68081452&hm=72343040d859fb70ac6b817c08587e344b7dd9718250feb57a3434448725bf96&)
 
 # 👋 Hey, I’m **MAD𝕏**
 
@@ -17,6 +18,7 @@ Crafting smart systems with clean UI & powerful backend magic.
 ---
 
 ## ⚙️ Tech Stack
+
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -27,7 +29,6 @@ Crafting smart systems with clean UI & powerful backend magic.
 [![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 
 ---
 
@@ -40,3 +41,5 @@ Crafting smart systems with clean UI & powerful backend magic.
 ---
 
 > 💡 *Code smart. Build fast. Stay MAD.* 😈
+
+</div>
