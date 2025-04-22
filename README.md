@@ -1,4 +1,4 @@
-![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364361274279985214/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px_1.png?ex=680963f4&is=68081274&hm=47dcf079f15256533afb7662cfc3c1d1e9571a6b030ecf88c9e9233f7c80f704&)
+![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364361300272218254/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px.png?ex=680963fa&is=6808127a&hm=3008598aaf6b553e85d30222733d61299569dc3cb8f38a166b6f724df77588d7&)
 
 
 # 👋 Hey, I’m **MAD𝕏**
