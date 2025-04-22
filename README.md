@@ -22,7 +22,7 @@ I build 🔥 Lua scripts for **FiveM** and smart Discord bots in **JavaScript**.
 ## 🌐 Connect
 
 - 💬 [Discord](https://discord.gg/GsAabsdC5p)
-- 🐦 [Twitter](https://twitter.com/yourmadx)
+- 🐦 [Twitter](https://twitter.com/MADX900)
 - 📺 [YouTube](https://youtube.com/MADX_Developer)
 
 ---
