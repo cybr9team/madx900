@@ -1,4 +1,4 @@
-![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364354805539274823/Untitled_Youtube_Banner.png?ex=68095dee&is=68080c6e&hm=94796a5d8bebc74634136c498329bdf9e0f9dc769caa328385d7711024532314&)
+![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364356965903503391/Untitled_250_x_95_px_150_x_40_px.png?ex=68095ff1&is=68080e71&hm=d8787fe7c2b8fd8026601a6395f77d253a92d48ae4edec7b9dc12ebea1f8520d&)
 
 # 👋 Hey, I’m **MAD𝕏**
 
