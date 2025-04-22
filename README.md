@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1136565771368136774/1364352619866230835/Untitled_design_10.png?ex=68095be5&is=68080a65&hm=8d439307bd5c1b29e65b9455265f8e81e42b77134065e7afe7a29d10239ffce3" width="100%" />
+<img src="https://cdn.discordapp.com/attachments/1136565771368136774/1364352619866230835/Untitled_design_10.png?ex=68095be5&is=68080a65&hm=8d439307bd5c1b29e65b9455265f8e81e42b77134065e7afe7a29d10239ffce3" width="25%" />
 
 # 👋 Hey, I’m **MAD𝕏**
 
