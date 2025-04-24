@@ -1,6 +1,6 @@
 <div align="center">
 
-![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364363277852741733/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px_3.png?ex=680965d2&is=68081452&hm=72343040d859fb70ac6b817c08587e344b7dd9718250feb57a3434448725bf96&)
+![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364950341103390760/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px.gif?ex=680b8890&is=680a3710&hm=4437ad8f25d2224322655082acf79d3ffe48897188be4555cd274f6a3241f355&)
 
 # 👋 Hey, I’m **MAD𝕏**
 
