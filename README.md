@@ -23,6 +23,7 @@ Crafting smart systems with clean UI & powerful backend magic.
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
 [![QBCore](https://img.shields.io/badge/QBCore-00BFFF?style=flat-square&logo=github&logoColor=white)](https://github.com/qbcore-framework)
 [![vRP](https://img.shields.io/badge/vRP-0A6F7E?style=flat-square&logo=github&logoColor=white)](https://github.com/ImagicTheCat/vRP)
