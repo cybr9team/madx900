@@ -2,7 +2,7 @@
 
 ![MAD𝕏 Banner](https://cdn.discordapp.com/attachments/1136565771368136774/1364950341103390760/MADbot_128_x_128_px_201_x_358_px_358_x_201_px_576_x_136_px.gif?ex=680b8890&is=680a3710&hm=4437ad8f25d2224322655082acf79d3ffe48897188be4555cd274f6a3241f355&)
 
-# 👋 Hey, I’m **MAD𝕏**
+# 👋 Hey, I’m **C Y B R 9**
 
 💻 **JavaScript Engineer & Linux Toolkit Architect**  
 Crafting smart Discord systems and advanced Linux cybersecurity tools.
