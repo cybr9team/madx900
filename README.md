@@ -4,38 +4,38 @@
 
 # 👋 Hey, I’m **C Y B R 9**
 
-💻 **JavaScript Engineer & Linux Toolkit Architect**  
-Crafting smart Discord systems and advanced Linux cybersecurity tools.
+💻 **Cybersecurity Developer & Linux Scripting Architect**  
+Building powerful Linux tools, ethical hacking scripts, and full-stack automation systems.
 
 ---
 
 ## 🧰 What I Do
 
-- 🤖 Discord Bot Development (Discord.js v14 | MongoDB | REST APIs)
-- 🧪 Full Stack Systems, Admin Panels, Automation Bots
-- 🛡️ Linux Toolkits & Cybersecurity Builds (Red/Blue Team Ops, CLI/GUI Tools)
+- 🛡️ Linux Cybersecurity Bash Scripts (Red & Blue Team Ops)
+- 🐍 Python Automation & Security Tools
+- 🎨 UI Dashboards with HTML/CSS/JavaScript
+- ⚙️ Full-stack Dev for Cyber Defense & Automation Systems
 
 ---
 
 ## ⚙️ Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)](https://www.linux.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
 
 ## 🧪 Featured Projects
 
-- **Cybr9 Linux Toolkit**: Advanced Red/Blue Team cyber defense toolkit with GUI
-- **MAD𝕏 Discord Suite**: Full-stack bot framework for moderation, automation & licensing
-- **Linux CLI Tools**: Custom Bash/Python utilities for automation and system protection
+- **CYBR9 Linux Toolkit**: Red/Blue Team tools with terminal & GUI support
+- **AutoShield Bash Scripts**: Cyber defense automation tools for Linux systems
+- **PySecOps Suite**: Python-powered security and penetration testing tools
+- **Secure Dash**: Cyber ops dashboards using HTML/CSS/JS with shell integration
 
 ---
 
@@ -47,4 +47,4 @@ Crafting smart Discord systems and advanced Linux cybersecurity tools.
 
 ---
 
-> 💡 *Code smart. Hack safe. Stay MAD.* 😈
+> 💡 *Secure code. Defend smart. Stay MAD.* 🔐🧠
